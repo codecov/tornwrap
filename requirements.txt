@@ -1,4 +1,4 @@
 tornado>=4.0.0
 valideer>=0.3.1
-timestring>=1.6.1
+timestring-pleasantone==1.8.1
 tornpsql
