@@ -20,5 +20,5 @@ setup(name='tornwrap',
       packages=['tornwrap'],
       include_package_data=True,
       zip_safe=True,
-      install_requires=['tornado>=4.0.0', 'valideer>=0.3.1', 'timestring>=1.6.1'],
+      install_requires=['tornado>=4.0.0', 'valideer>=0.3.1', 'timestring-pleasantone==1.8.1'],
       entry_points=None)
