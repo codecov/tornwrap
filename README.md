@@ -1,4 +1,5 @@
 # tornwrap [![Build Status](https://api.travis-ci.org/stevepeak/tornwrap.svg?branch=master)](http://travis-ci.org/stevepeak/tornwrap) [![codecov.io](https://codecov.io/github/stevepeak/tornwrap/coverage.svg?branch=master)](https://codecov.io/github/stevepeak/tornwrap)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcodecov%2Ftornwrap.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcodecov%2Ftornwrap?ref=badge_shield)
 
 > Collection of commonly used methods and decorators. Feedback and PRs welcome!
 
@@ -99,3 +100,7 @@ class Handler(RequestHandler):
 
 # `@markdown` (future feature)
 > Merge [torndown](https://github.com/stevepeak/torndown) project
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcodecov%2Ftornwrap.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcodecov%2Ftornwrap?ref=badge_large)
